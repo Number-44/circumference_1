@@ -11,7 +11,7 @@ try:
     height=int(height)
     print("the base amount is : "+ str(base))
     print("the amount of height is : "+ str(height))
-    print("the circomference of the " +str(2*(base * height)))
+    print("the circomference is " +str(2*(base * height)))
 
 
 
